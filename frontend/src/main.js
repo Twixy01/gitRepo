@@ -1,5 +1,5 @@
 async function fetchData() {
-  let response = await fetch("src/adatok.json");
+  let response = await fetch("adatok.json");
   let json = await response.json();
   return json;
 }
