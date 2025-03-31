@@ -2,21 +2,21 @@
     {
         "nev": "Peter",
         "kor": 20,
-        "Lakhely": "Budapest"
+        "lakhely": "Budapest"
     },
     {
         "nev": "Adam",
         "kor": 21,
-        "Lakhely": "Kecskemet"
+        "lakhely": "Kecskemet"
     },
     {
         "nev": "Alex",
         "kor": 18,
-        "Lakhely": "Budakeszi"
+        "lakhely": "Budakeszi"
     },
     {
         "nev": "Benedek",
         "kor": 18,
-        "Lakhely": "Budakalasz"
+        "lakhely": "Budakalasz"
     }
 ]
