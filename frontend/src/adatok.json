@@ -1,0 +1,22 @@
+[
+    {
+        "nev": "Peter",
+        "kor": 20,
+        "Lakhely": "Budapest"
+    },
+    {
+        "nev": "Adam",
+        "kor": 21,
+        "Lakhely": "Kecskemet"
+    },
+    {
+        "nev": "Alex",
+        "kor": 18,
+        "Lakhely": "Budakeszi"
+    },
+    {
+        "nev": "Benedek",
+        "kor": 18,
+        "Lakhely": "Budakalasz"
+    }
+]
